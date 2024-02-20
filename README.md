@@ -9,7 +9,7 @@ I'm a graduate student in the MSIN program at Carnegie Mellon University.
 I'm currently working on:
 - Efficient LLM
 - Columnar storage for AI workloads
-- RAG and multi-agent
+- Multi-agent
 
 
 
